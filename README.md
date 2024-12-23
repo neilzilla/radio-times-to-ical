@@ -1,4 +1,4 @@
-# radio-times-to-ical
+# Radio Times Personal TV Schedule Exporter
 
 A TamperMonkey script to create personalized TV Schedules
 
